@@ -1,2 +1,2 @@
 # Motor_Teststand
- A repository for scripts related to contolling, modeling, and data visulization for the RC Benchmark motor test stand
+ A repository for scripts related to control, modeling, and data visulization of the RC Benchmark motor test stand.
